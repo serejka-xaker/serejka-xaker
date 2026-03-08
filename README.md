@@ -3,9 +3,7 @@
 <h3 align="center">Python Developer | Security Engineer | Automation Specialist 🇷🇺</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">Email</a> • 
-  <a href="https://t.me/yourusername">Telegram</a> • 
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
+  <a href="https://t.me/DepartmentofMoney">Telegram</a> • 
 </p>
 
 ---
@@ -80,12 +78,6 @@
 - SearchInform DLP (Astra Linux), Security Onion, UserGate.
 - Расследование 300+ инцидентов ИБ.
 - Автоматизация аудита (Bash, Python).
-
----
-
-### 📫 Контакты
-
-- **Telegram:** @DepartmentofMoney
 
 ---
 
