@@ -29,7 +29,7 @@
 | **Web & API** | FastAPI, Flask, Requests, BeautifulSoup, Selenium |
 | **Databases** | PostgreSQL, SQLite, MongoDB, SQLAlchemy 2.0 |
 | **DevOps** | Docker, Docker Compose, Git, Linux (Astra, Debian) |
-| **Security** | Wireshark, UserGate, SearchInform, OWASP Top 10 |
+| **Security** | Wireshark, UserGate, SearchInform DLP, OWASP Top 10 |
 
 ---
 
@@ -110,15 +110,6 @@
 - SearchInform DLP (Astra Linux), Security Onion, UserGate.
 - Расследование 300+ инцидентов ИБ.
 - Автоматизация аудита (Bash, Python).
-
----
-
-### 📈 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serejka-xaker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serejka-xaker&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
