@@ -3,7 +3,8 @@
 <h3 align="center">Python Developer | Security Engineer | Automation Specialist 🇷🇺</h3>
 
 <p align="center">
-  <a href="https://t.me/DepartmentofMoney">Telegram</a>
+  <a href="https://t.me/DepartmentofMoney">Telegram</a> • 
+  <a href="https://github.com/serejka-xaker">GitHub</a>
 </p>
 
 ---
@@ -39,28 +40,59 @@
 - **Архитектура:** Мастер-бот динамически запускает дочерних ботов в изолированных процессах.
 - **Безопасность:** Разделение данных клиентов, уникальные API-ключи, RBAC.
 - **Стек:** `aiogram 3` `PostgreSQL` `Docker` `SQLAlchemy Async` `REST API`
-- 🔗 [Ссылка на репозиторий]
+- 🔗 [telegram-bot-park-manager](https://github.com/serejka-xaker/telegram-bot-park-manager)
 
 #### 📱 Инфраструктура мультиаккаунтной автоматизации (MTProto)
 *Система управления сессиями и прокси для Telegram*
 - **Функционал:** Ротация прокси, менеджер сессий, защита от блокировок.
 - **Архитектура:** Асинхронная обработка, логирование ошибок, ORM-модель аккаунтов.
 - **Стек:** `Telethon` `Asyncio` `SQLite` `Proxy-инфраструктура`
-- 🔗 [Ссылка на репозиторий]
+- 🔗 [telegram-commenting-multiaccount-infrastructure](https://github.com/serejka-xaker/telegram-commenting-multiaccount-infrastructure)
 
 #### 💰 Telegram-бот для обмена валют с Docker-инфраструктурой
 *Сервис с автоматическим парсингом курсов*
 - **Инфраструктура:** Микросервисы в контейнерах (Bot + Selenium + MongoDB).
 - **Оптимизация:** Headless Chrome в Docker, интеграция синхронного Selenium в asyncio.
 - **Стек:** `aiogram` `Selenium` `Docker Compose` `MongoDB` `APScheduler`
-- 🔗 [Ссылка на репозиторий]
+- 🔗 [exchange-money-docker-selenium](https://github.com/serejka-xaker/exchange-money-docker-selenium)
 
 #### 🕷️ Парсеры вакансий (HH.ru, SuperJob)
 *Автоматизированный сбор данных с обходом антибот-защиты*
 - **Функции:** OAuth2 авторизация, обход Cloudflare, экспорт в Excel/DB.
 - **Надежность:** Exponential backoff, валидация данных, дедупликация.
 - **Стек:** `Python` `Requests` `BeautifulSoup` `Flask` `OAuth2`
-- 🔗 [Ссылка на репозиторий]
+- 🔗 [hh-vacancy-parser](https://github.com/serejka-xaker/hh-vacancy-parser) | [superjob-parser-flask](https://github.com/serejka-xaker/superjob-parser-flask)
+
+#### 🤖 Telegram-бот модератор с геймификацией
+*Автоматическая модерация и система рейтинга пользователей*
+- **Функции:** Стоп-слова, начисление баллов, разграничение прав доступа.
+- **Архитектура:** Асинхронная БД, централизованное логирование.
+- **Стек:** `aiogram 3` `APScheduler` `SQLite` `aiosqlite`
+- 🔗 [telegram-moderation-bot](https://github.com/serejka-xaker/telegram-moderation-bot)
+
+#### 📥 Парсер вакансий из Telegram-каналов
+*Асинхронный сбор сообщений через Telethon*
+- **Функции:** Фильтрация по ключевым словам, нормализация UTC, экспорт в Excel.
+- **Стек:** `Telethon` `asyncio` `pandas` `configparser`
+- 🔗 [vacancy-telegram-channel-parser](https://github.com/serejka-xaker/vacancy-telegram-channel-parser)
+
+#### 🎬 Автоматизация загрузки видео в TikTok
+*Selenium-автоматизация с обходом антибот-защиты*
+- **Функции:** Undetected Chromedriver, работа с куки, поддержка прокси.
+- **Стек:** `SeleniumBase` `Undetected Chromedriver` `WebDriver`
+- 🔗 [tiktok-upload-automation](https://github.com/serejka-xaker/tiktok-upload-automation)
+
+#### 🤖 Автоматизация взаимодействия с Telegram-ботами (MTProto)
+*Прямая работа с Telegram API вместо GUI-автоматизации*
+- **Функции:** Динамический анализ клавиатуры, мультиаккаунтность.
+- **Стек:** `Telethon` `asyncio` `SQLite` `JSON`
+- 🔗 [telegram-bot-automation-mtproto](https://github.com/serejka-xaker/telegram-bot-automation-mtproto)
+
+#### 🔧 Оптимизация HTTP-парсера криптобиржи
+*Обход защиты Cloudflare через модификацию заголовков*
+- **Функции:** User-Agent ротация, тестирование стабильности.
+- **Стек:** `requests` `selenium` `Python`
+- 🔗 [http-parser-optimization](https://github.com/serejka-xaker/http-parser-optimization)
 
 > 💡 *Полный список проектов доступен во вкладке **Repositories**.*
 
@@ -80,4 +112,17 @@
 - Автоматизация аудита (Bash, Python).
 
 ---
+
+### 📈 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serejka-xaker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serejka-xaker&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Контакты
+
+- **Telegram:** [@DepartmentofMoney](https://t.me/DepartmentofMoney)
 
