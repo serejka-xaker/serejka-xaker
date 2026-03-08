@@ -43,7 +43,7 @@
 - 🔗 [telegram-bot-park-manager](https://github.com/serejka-xaker/telegram-bot-park-manager)
 
 #### 📱 Инфраструктура мультиаккаунтной автоматизации (MTProto)
-*Система управления сессиями и прокси для Telegram*
+*Система управления написанием комментариев с сессиями и прокси для Telegram*
 - **Функционал:** Ротация прокси, менеджер сессий, защита от блокировок.
 - **Архитектура:** Асинхронная обработка, логирование ошибок, ORM-модель аккаунтов.
 - **Стек:** `Telethon` `Asyncio` `SQLite` `Proxy-инфраструктура`
@@ -57,8 +57,8 @@
 - 🔗 [exchange-money-docker-selenium](https://github.com/serejka-xaker/exchange-money-docker-selenium)
 
 #### 🕷️ Парсеры вакансий (HH.ru, SuperJob)
-*Автоматизированный сбор данных с обходом антибот-защиты*
-- **Функции:** OAuth2 авторизация, обход Cloudflare, экспорт в Excel/DB.
+*Автоматизированный сбор данных через API*
+- **Функции:** OAuth2 авторизация, экспорт в Excel/DB.
 - **Надежность:** Exponential backoff, валидация данных, дедупликация.
 - **Стек:** `Python` `Requests` `BeautifulSoup` `Flask` `OAuth2`
 - 🔗 [hh-vacancy-parser](https://github.com/serejka-xaker/hh-vacancy-parser) | [superjob-parser-flask](https://github.com/serejka-xaker/superjob-parser-flask)
@@ -71,7 +71,7 @@
 - 🔗 [telegram-moderation-bot](https://github.com/serejka-xaker/telegram-moderation-bot)
 
 #### 📥 Парсер вакансий из Telegram-каналов
-*Асинхронный сбор сообщений через Telethon*
+*Асинхронный сбор сообщений вакансий через Telethon*
 - **Функции:** Фильтрация по ключевым словам, нормализация UTC, экспорт в Excel.
 - **Стек:** `Telethon` `asyncio` `pandas` `configparser`
 - 🔗 [vacancy-telegram-channel-parser](https://github.com/serejka-xaker/vacancy-telegram-channel-parser)
@@ -82,7 +82,7 @@
 - **Стек:** `SeleniumBase` `Undetected Chromedriver` `WebDriver`
 - 🔗 [tiktok-upload-automation](https://github.com/serejka-xaker/tiktok-upload-automation)
 
-#### 🤖 Автоматизация взаимодействия с Telegram-ботами (MTProto)
+#### 🤖 Автоматизация взаимодействия с Telegram-ботос "ДайВинчик" (MTProto)
 *Прямая работа с Telegram API вместо GUI-автоматизации*
 - **Функции:** Динамический анализ клавиатуры, мультиаккаунтность.
 - **Стек:** `Telethon` `asyncio` `SQLite` `JSON`
