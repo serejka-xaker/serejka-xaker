@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Обо мне
 
-Студент ОмГТУ (Информационная безопасность, диплом с отличием). 
+Выпускник ОмГТУ (Информационная безопасность, диплом с отличием). 
 Разрабатываю на Python более 1 года. Специализируюсь на **асинхронной разработке**, **Telegram-ботах** и **автоматизации процессов**. 
 Имею коммерческий опыт внедрения систем защиты информации (DLP, SIEM) и расследования инцидентов.
 
@@ -83,21 +83,9 @@
 
 ---
 
-### 📈 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Контакты
 
-- **Telegram:** [@yourusername]
-- **Email:** [your.email@example.com]
-- **HH.ru:** [Ссылка на профиль]
+- **Telegram:** [[@DepartmentofMoney]]
 
 ---
 
-<p align="center">⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House</p>
