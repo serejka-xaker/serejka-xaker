@@ -85,7 +85,7 @@
 
 ### 📫 Контакты
 
-- **Telegram:** [[@DepartmentofMoney]]
+- **Telegram:** @DepartmentofMoney
 
 ---
 
