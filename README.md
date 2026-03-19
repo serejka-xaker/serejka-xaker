@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sergey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Developer | Security Engineer | Automation Specialist 🇷🇺</h3>
+<h3 align="center">Python-разработчик | Инженер по безопасности | Специалист по автоматизации 🇷🇺</h3>
 
 <p align="center">
   <a href="https://t.me/DepartmentofMoney">Telegram @DepartmentofMoney </a>
