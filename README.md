@@ -3,7 +3,7 @@
 <h2 align="center">Python-разработчик | Инженер по безопасности | Специалист по автоматизации 🇷🇺</h2>
 
 <p align="center">
-  <a href="https://t.me/DepartmentofMoney">Telegram @DepartmentofMoney </a>
+ Telegram <a href="https://t.me/DepartmentofMoney">@DepartmentofMoney</a>
 </p>
 
 ---
